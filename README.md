@@ -70,7 +70,7 @@ src="https://img.shields.io/github/followers/vicjuma?logo=github&style=for-the-b
   </a>
 </div><br /><br /><br /><br /><br /><br /><br />
 
-<b>Top Repositories</b>
+
 
 <div width="100%" align="center">
   <a href="https://github.com/vicjuma/oluoch-rest" align="left">

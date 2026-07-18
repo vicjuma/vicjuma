@@ -2,19 +2,7 @@
  
 Software Engineer contributing to open-source Bitcoin projects.
  
-I work on protocol-level and tooling contributions across the Bitcoin ecosystem, with a focus on correctness, security, and long-term maintainability. Currently contributing to:
- 
-- **[Bitcoin Core](https://github.com/bitcoin/bitcoin)** — the reference implementation of the Bitcoin protocol
-- **[rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)** — Rust library for Bitcoin protocol implementations
-- **[Nutshell (Cashu)](https://github.com/cashubtc/nutshell)** — Chaumian ecash implementation for Bitcoin
-I'm interested in collaborating with others working on Bitcoin infrastructure, wallets, layer-2 protocols, and privacy-preserving technology.
- 
-📫 Reach me at **[vicjuma945@gmail.com](mailto:vicjuma945@gmail.com)**
-🌍 Based in Nairobi
- 
----
-
-### Badges
+I work on protocol-level and tooling contributions across the Bitcoin ecosystem, with a focus on correctness, security, and long-term maintainability.
 
 <b>My GitHub Stats</b>
 
